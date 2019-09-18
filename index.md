@@ -15,3 +15,4 @@ My experience as a developer is small and somewhat distant from the work of a de
     * Applied Mathematics and Computer Science (Higher)
   * Courses
     * Cloud computing technology. Mirantis
+1. English
