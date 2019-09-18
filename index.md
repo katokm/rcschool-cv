@@ -1,5 +1,5 @@
 # Junior Developer Resume
-1. Ekaterina Mamykina
+1. ## Ekaterina Mamykina
 1. E-Mail: katoknina39@mail.ru
 1. From working as a developer, I expect interesting projects with the possibility of creating something new in the future.
 The development industry has always attracted me. This is what I like to do.
