@@ -1,4 +1,1 @@
-# rcschool-cv
-# Ethan White's Curriculum Vitae
-
-## Contact
+https://katokm.github.io/error/cv
